@@ -1,5 +1,5 @@
 **Twitter Bot Using OpenAI GPT-3**
-This project contains a Twitter bot that uses OpenAI's GPT-3.5 Turbo model to generate responses to tweets. The bot is designed to portray a specific character that is foul-mouthed, sarcastic, and sharp-witted. Please note that as this calls the OpenAI API, you will be charged per reply so you need an active credit card on your account. The charges were incredibly small at the time of writing.
+This project contains a Twitter bot that uses OpenAI's GPT-3.5 Turbo model to generate responses to tweets. The bot is designed to portray a specific character that is foul-mouthed, sarcastic, and sharp-witted. Please note that as this calls the OpenAI API, you will be charged per reply so you need an active credit card on your account. The charges were incredibly small at the time of writing. An example of the bot's replies can be found at https://twitter.com/WojakReply (please note I have since deactived the bot for now on this account).
 
 **Features**
 Fetches the latest tweets mentioning a specific user.
